@@ -9,3 +9,4 @@ This is a private Repository created from the gudiance provided from the Reposit
 | Jinti           | Jinti123         | DB Lead        |
 | Hasini          | hasinim05        | Frontend Lead  |
 | Rishab Bathwal  | J0YB0Y16         | Scrum Master   |
+ This is a dummy repo.
